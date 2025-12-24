@@ -1,0 +1,7 @@
+streamlit
+tensorflow-macos
+tensorflow-metal
+pillow
+numpy
+pandas
+matplotlib
